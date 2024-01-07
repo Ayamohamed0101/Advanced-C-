@@ -1,0 +1,18 @@
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\Lesson2.exe
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\Lesson2.deps.json
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\Lesson2.runtimeconfig.json
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\Lesson2.dll
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\Lesson2.pdb
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.AssemblyInfoInputs.cache
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.AssemblyInfo.cs
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.csproj.CoreCompileInputs.cache
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.dll
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\refint\Lesson2.dll
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.pdb
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.genruntimeconfig.cache
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\ref\Lesson2.dll
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\c sharp projects.classlibrary.HR.dll
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\bin\Debug\net7.0\c sharp projects.classlibrary.HR.pdb
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.csproj.AssemblyReference.cache
+D:\USED\Advanced C sharp\C sharp projects\Lesson2\obj\Debug\net7.0\Lesson2.csproj.CopyComplete
