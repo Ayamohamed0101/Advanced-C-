@@ -1,0 +1,7 @@
+D:\USED\Advanced C sharp\inteface\bin\Debug\inteface.exe.config
+D:\USED\Advanced C sharp\inteface\bin\Debug\inteface.exe
+D:\USED\Advanced C sharp\inteface\bin\Debug\inteface.pdb
+D:\USED\Advanced C sharp\inteface\obj\Debug\inteface.csproj.AssemblyReference.cache
+D:\USED\Advanced C sharp\inteface\obj\Debug\inteface.csproj.CoreCompileInputs.cache
+D:\USED\Advanced C sharp\inteface\obj\Debug\inteface.exe
+D:\USED\Advanced C sharp\inteface\obj\Debug\inteface.pdb
