@@ -1,0 +1,7 @@
+D:\USED\Advanced C sharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\USED\Advanced C sharp\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\USED\Advanced C sharp\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\USED\Advanced C sharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\USED\Advanced C sharp\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\USED\Advanced C sharp\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\USED\Advanced C sharp\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
