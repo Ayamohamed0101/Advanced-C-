@@ -1,0 +1,9 @@
+D:\USED\Revision Course 18\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.dll
+D:\USED\Revision Course 18\ContactsBusinessLayer\bin\Debug\ContactsBusinessLayer.pdb
+D:\USED\Revision Course 18\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.dll
+D:\USED\Revision Course 18\ContactsBusinessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+D:\USED\Revision Course 18\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.csproj.CopyComplete
+D:\USED\Revision Course 18\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.dll
+D:\USED\Revision Course 18\ContactsBusinessLayer\obj\Debug\ContactsBusinessLayer.pdb

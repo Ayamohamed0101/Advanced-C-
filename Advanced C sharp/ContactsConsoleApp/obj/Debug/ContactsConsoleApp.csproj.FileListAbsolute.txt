@@ -1,0 +1,16 @@
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsConsoleApp.exe.config
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsConsoleApp.exe
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsConsoleApp.pdb
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsBusinessLayer.dll
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsDataAccessLayer.dll
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsBusinessLayer.pdb
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\ContactsDataAccessLayer.pdb
+D:\USED\Revision Course 18\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.csproj.CopyComplete
+D:\USED\Revision Course 18\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.exe
+D:\USED\Revision Course 18\ContactsConsoleApp\obj\Debug\ContactsConsoleApp.pdb
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\CountriesBusinessLayer.dll
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\CountriesDataAccessLayer.dll
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\CountriesBusinessLayer.pdb
+D:\USED\Revision Course 18\ContactsConsoleApp\bin\Debug\CountriesDataAccessLayer.pdb
