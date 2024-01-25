@@ -1,0 +1,15 @@
+﻿  try2.cpp
+D:\AyaProjectsVS\try2\ClsString.h(29,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AyaProjectsVS\try2\ClsString.h(56,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\try2\ClsString.h(170,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\try2\ClsString.h(296,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\try2\ClsString.h(342,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\try2\clsBankClient.h(31,74): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\try2\clsBankClient.h(282,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\try2\clsBankClient.h(294,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\try2\clsAddNewClientScreen.h(45,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\try2\clsUpdateClientScreen.h(44,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\try2\clsFindClientScreen.h(46,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\try2\clsTotalBalancesScreen.h(54,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\AyaProjectsVS\try2\clsTransactionScreen.h(93,13): error C2653: 'clsMainScreen': is not a class or namespace name
+D:\AyaProjectsVS\try2\clsTransactionScreen.h(93,28): error C3861: 'ShowMainMenue': identifier not found

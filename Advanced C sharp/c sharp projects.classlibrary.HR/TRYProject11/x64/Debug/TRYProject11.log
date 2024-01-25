@@ -1,0 +1,27 @@
+﻿  TRYProject11.cpp
+D:\AyaProjectsVS\TRYProject11\ClsString.h(29,25): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\AyaProjectsVS\TRYProject11\ClsString.h(56,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\TRYProject11\ClsString.h(170,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\TRYProject11\ClsString.h(296,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\TRYProject11\ClsString.h(342,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsUser.h(156,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\AyaProjectsVS\TRYProject11\clsUser.h(23,9): message : see declaration of 'clsUser::stLoginRegisterRecord'
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(156,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(37,10): message : see declaration of 'clsBankClient::stTrnsferLogRecord'
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(47,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(48,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(49,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(66,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(348,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(360,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsAddNewClientScreen.h(45,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsTotalBalancesScreen.h(57,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsTransferScreen.h(151,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsFindClientScreen.h(46,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsUpdateClientScreen.h(44,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\AyaProjectsVS\TRYProject11\clsAddNewUserScreen.h(116,17): warning C4129: 'R': unrecognized character escape sequence
+D:\AyaProjectsVS\TRYProject11\clsUpdateUserScreen.h(117,17): warning C4129: 'R': unrecognized character escape sequence
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(240): warning C4715: 'clsBankClient::Find': not all control paths return a value
+D:\AyaProjectsVS\TRYProject11\clsBankClient.h(293): warning C4715: 'clsBankClient::save': not all control paths return a value
+D:\AyaProjectsVS\TRYProject11\clsUser.h(286): warning C4715: 'clsUser::Save': not all control paths return a value
+  TRYProject11.vcxproj -> D:\AyaProjectsVS\TRYProject11\x64\Debug\TRYProject11.exe
