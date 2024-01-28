@@ -1,0 +1,9 @@
+D:\USED\Revision Course 18\CountriesBusinessLayer\bin\Debug\CountriesBusinessLayer.dll
+D:\USED\Revision Course 18\CountriesBusinessLayer\bin\Debug\CountriesBusinessLayer.pdb
+D:\USED\Revision Course 18\CountriesBusinessLayer\bin\Debug\CountriesDataAccessLayer.dll
+D:\USED\Revision Course 18\CountriesBusinessLayer\bin\Debug\CountriesDataAccessLayer.pdb
+D:\USED\Revision Course 18\CountriesBusinessLayer\obj\Debug\CountriesBusinessLayer.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\CountriesBusinessLayer\obj\Debug\CountriesBusinessLayer.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\CountriesBusinessLayer\obj\Debug\CountriesBusinessLayer.csproj.CopyComplete
+D:\USED\Revision Course 18\CountriesBusinessLayer\obj\Debug\CountriesBusinessLayer.dll
+D:\USED\Revision Course 18\CountriesBusinessLayer\obj\Debug\CountriesBusinessLayer.pdb
