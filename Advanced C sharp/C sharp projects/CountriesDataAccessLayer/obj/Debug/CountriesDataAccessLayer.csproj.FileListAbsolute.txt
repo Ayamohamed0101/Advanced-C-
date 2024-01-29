@@ -1,0 +1,6 @@
+D:\USED\Revision Course 18\CountriesDataAccessLayer\bin\Debug\CountriesDataAccessLayer.dll
+D:\USED\Revision Course 18\CountriesDataAccessLayer\bin\Debug\CountriesDataAccessLayer.pdb
+D:\USED\Revision Course 18\CountriesDataAccessLayer\obj\Debug\CountriesDataAccessLayer.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\CountriesDataAccessLayer\obj\Debug\CountriesDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\CountriesDataAccessLayer\obj\Debug\CountriesDataAccessLayer.dll
+D:\USED\Revision Course 18\CountriesDataAccessLayer\obj\Debug\CountriesDataAccessLayer.pdb
