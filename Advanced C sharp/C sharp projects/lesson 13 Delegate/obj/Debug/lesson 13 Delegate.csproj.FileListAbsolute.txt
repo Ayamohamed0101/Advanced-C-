@@ -1,0 +1,7 @@
+D:\USED\Advanced C sharp\lesson 13 Delegate\bin\Debug\lesson 13 Delegate.exe.config
+D:\USED\Advanced C sharp\lesson 13 Delegate\bin\Debug\lesson 13 Delegate.exe
+D:\USED\Advanced C sharp\lesson 13 Delegate\bin\Debug\lesson 13 Delegate.pdb
+D:\USED\Advanced C sharp\lesson 13 Delegate\obj\Debug\lesson 13 Delegate.csproj.AssemblyReference.cache
+D:\USED\Advanced C sharp\lesson 13 Delegate\obj\Debug\lesson 13 Delegate.csproj.CoreCompileInputs.cache
+D:\USED\Advanced C sharp\lesson 13 Delegate\obj\Debug\lesson 13 Delegate.exe
+D:\USED\Advanced C sharp\lesson 13 Delegate\obj\Debug\lesson 13 Delegate.pdb
