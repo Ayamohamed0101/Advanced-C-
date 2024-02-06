@@ -1,0 +1,7 @@
+D:\USED\Advanced C sharp\lesson 8\bin\Debug\lesson 8.exe.config
+D:\USED\Advanced C sharp\lesson 8\bin\Debug\lesson 8.exe
+D:\USED\Advanced C sharp\lesson 8\bin\Debug\lesson 8.pdb
+D:\USED\Advanced C sharp\lesson 8\obj\Debug\lesson 9.csproj.AssemblyReference.cache
+D:\USED\Advanced C sharp\lesson 8\obj\Debug\lesson 9.csproj.CoreCompileInputs.cache
+D:\USED\Advanced C sharp\lesson 8\obj\Debug\lesson 8.exe
+D:\USED\Advanced C sharp\lesson 8\obj\Debug\lesson 8.pdb
