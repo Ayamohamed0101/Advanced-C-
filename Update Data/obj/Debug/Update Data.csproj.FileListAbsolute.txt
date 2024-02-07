@@ -1,0 +1,7 @@
+D:\USED\Revision Course 18\Update Data\bin\Debug\Update Data.exe.config
+D:\USED\Revision Course 18\Update Data\bin\Debug\Update Data.exe
+D:\USED\Revision Course 18\Update Data\bin\Debug\Update Data.pdb
+D:\USED\Revision Course 18\Update Data\obj\Debug\Update Data.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\Update Data\obj\Debug\Update Data.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\Update Data\obj\Debug\Update Data.exe
+D:\USED\Revision Course 18\Update Data\obj\Debug\Update Data.pdb

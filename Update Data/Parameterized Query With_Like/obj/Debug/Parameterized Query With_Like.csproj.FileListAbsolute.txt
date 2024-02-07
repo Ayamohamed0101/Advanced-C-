@@ -1,0 +1,7 @@
+D:\USED\Revision Course 18\Parameterized Query With_Like\obj\Debug\Parameterized Query With_Like.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\Parameterized Query With_Like\obj\Debug\Parameterized Query With_Like.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\Parameterized Query With_Like\bin\Debug\Parameterized Query With_Like.exe.config
+D:\USED\Revision Course 18\Parameterized Query With_Like\bin\Debug\Parameterized Query With_Like.exe
+D:\USED\Revision Course 18\Parameterized Query With_Like\bin\Debug\Parameterized Query With_Like.pdb
+D:\USED\Revision Course 18\Parameterized Query With_Like\obj\Debug\Parameterized Query With_Like.exe
+D:\USED\Revision Course 18\Parameterized Query With_Like\obj\Debug\Parameterized Query With_Like.pdb

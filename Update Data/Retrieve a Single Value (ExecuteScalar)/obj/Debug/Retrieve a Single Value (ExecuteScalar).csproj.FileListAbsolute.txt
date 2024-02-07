@@ -1,0 +1,7 @@
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\obj\Debug\Retrieve a Single Value (ExecuteScalar).csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\obj\Debug\Retrieve a Single Value (ExecuteScalar).csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\bin\Debug\Retrieve a Single Value (ExecuteScalar).exe.config
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\bin\Debug\Retrieve a Single Value (ExecuteScalar).exe
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\bin\Debug\Retrieve a Single Value (ExecuteScalar).pdb
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\obj\Debug\Retrieve a Single Value (ExecuteScalar).exe
+D:\USED\Revision Course 18\Retrieve a Single Value (ExecuteScalar)\obj\Debug\Retrieve a Single Value (ExecuteScalar).pdb
