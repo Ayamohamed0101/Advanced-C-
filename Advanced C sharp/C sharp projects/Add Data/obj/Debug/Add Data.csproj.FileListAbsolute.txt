@@ -1,0 +1,7 @@
+D:\USED\Revision Course 18\Add Data\bin\Debug\Add Data.exe.config
+D:\USED\Revision Course 18\Add Data\bin\Debug\Add Data.exe
+D:\USED\Revision Course 18\Add Data\bin\Debug\Add Data.pdb
+D:\USED\Revision Course 18\Add Data\obj\Debug\Add Data.csproj.AssemblyReference.cache
+D:\USED\Revision Course 18\Add Data\obj\Debug\Add Data.csproj.CoreCompileInputs.cache
+D:\USED\Revision Course 18\Add Data\obj\Debug\Add Data.exe
+D:\USED\Revision Course 18\Add Data\obj\Debug\Add Data.pdb
