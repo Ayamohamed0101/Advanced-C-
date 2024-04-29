@@ -1,0 +1,7 @@
+D:\USED\IComparable\bin\Debug\IComparable.exe.config
+D:\USED\IComparable\bin\Debug\IComparable.exe
+D:\USED\IComparable\bin\Debug\IComparable.pdb
+D:\USED\IComparable\obj\Debug\IComparable.csproj.AssemblyReference.cache
+D:\USED\IComparable\obj\Debug\IComparable.csproj.CoreCompileInputs.cache
+D:\USED\IComparable\obj\Debug\IComparable.exe
+D:\USED\IComparable\obj\Debug\IComparable.pdb

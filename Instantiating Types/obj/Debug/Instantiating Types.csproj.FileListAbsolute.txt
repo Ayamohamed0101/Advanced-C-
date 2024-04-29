@@ -1,0 +1,7 @@
+D:\USED\Instantiating Types\bin\Debug\Instantiating Types.exe.config
+D:\USED\Instantiating Types\bin\Debug\Instantiating Types.exe
+D:\USED\Instantiating Types\bin\Debug\Instantiating Types.pdb
+D:\USED\Instantiating Types\obj\Debug\Instantiating Types.csproj.AssemblyReference.cache
+D:\USED\Instantiating Types\obj\Debug\Instantiating Types.csproj.CoreCompileInputs.cache
+D:\USED\Instantiating Types\obj\Debug\Instantiating Types.exe
+D:\USED\Instantiating Types\obj\Debug\Instantiating Types.pdb
