@@ -1,0 +1,7 @@
+D:\leetCodeC#\DelegationwithCalculator\bin\Debug\DelegationwithCalculator.exe.config
+D:\leetCodeC#\DelegationwithCalculator\bin\Debug\DelegationwithCalculator.exe
+D:\leetCodeC#\DelegationwithCalculator\bin\Debug\DelegationwithCalculator.pdb
+D:\leetCodeC#\DelegationwithCalculator\obj\Debug\DelegationwithCalculator.csproj.AssemblyReference.cache
+D:\leetCodeC#\DelegationwithCalculator\obj\Debug\DelegationwithCalculator.csproj.CoreCompileInputs.cache
+D:\leetCodeC#\DelegationwithCalculator\obj\Debug\DelegationwithCalculator.exe
+D:\leetCodeC#\DelegationwithCalculator\obj\Debug\DelegationwithCalculator.pdb
